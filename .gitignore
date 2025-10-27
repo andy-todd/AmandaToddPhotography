@@ -58,3 +58,4 @@ out
 # Misc
 *.log
 >>>>>>> 12f15f2 (feat: initial monorepo with Next.js storefront)
+apps/site/src/app/about/secret
