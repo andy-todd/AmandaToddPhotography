@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -34,3 +35,26 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+=======
+# root
+node_modules
+.DS_Store
+.env
+.env.*
+/.envrc
+
+# Next.js
+.next
+out
+
+# Sanity
+/apps/studio/.sanity
+/apps/studio/node_modules
+
+# Medusa
+/apps/medusa/node_modules
+/apps/medusa/dist
+
+# Misc
+*.log
+>>>>>>> 12f15f2 (feat: initial monorepo with Next.js storefront)

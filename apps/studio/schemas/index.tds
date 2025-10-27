@@ -1,0 +1,8 @@
+import { type SchemaTypeDefinition } from 'sanity'
+import photo from './photo'
+import gallery from './gallery'
+import priceOption from './priceOption'
+
+export const schema: { types: SchemaTypeDefinition[] } = {
+  types: [photo, gallery, priceOption],
+}
