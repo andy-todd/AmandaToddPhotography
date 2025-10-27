@@ -1,2 +1,0 @@
-# AmandaToddPhotography
-Sample photography site
